@@ -103,7 +103,7 @@ async function resetValues() {
 
 async function playAgain() {
 	// Redirect to start screen
-	window.location.href = "PlayerMenu.html";
+	window.location.href = "index.html";
 }
 
 function get(id) {
